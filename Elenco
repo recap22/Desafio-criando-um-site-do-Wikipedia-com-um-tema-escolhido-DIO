@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Sobre meu site</title>
+    </head>
+    <body>
+        <a href="index.html">< Voltar</a>
+        <h2>Elenco</h2>
+            <p>Robert Downey Jr. como Tony Stark / Homem de Ferro:
+                Um ex-fabricante de armas para as Forças Armadas dos Estados Unidos que se autodescreve como um gênio, bilionário, playboy e filantropo, possuindo uma armadura eletromecânica de sua própria invenção. Downey foi escalado como parte de seu contrato de quatro filmes com a Marvel Studios, que incluía Iron Man 2 (2010) e The Avengers. Ele disse que inicialmente forçou Whedon a fazer com que Stark fosse o personagem principal: "Bem, eu disse: 'Eu preciso estar na sequência de abertura. Eu não sei o que você está pensando, mas Tony precisa dirigir essa coisa.' Ele disse: 'Ok, vamos tentar isso.' Nós tentamos e não funcionou, porque isso é um tipo diferente de coisa, a história, a ideia e o tema, e todo mundo é apenas um braço do polvo." Sobre a evolução do personagem em comparação aos filmes anteriores, Downey disse: "Em Iron Man, que era uma história de origem, ele era sua própria epifania e redenção. Iron Man 2 é sobre não ser uma ilha, lidando com questões de legado e abrindo espaço para outros Em The Avengers, ele está lutando com os outros". Downey recebeu um pagamento de 50 milhões de dólares por conta do filme, "uma vez que os bônus de bilheteria e a compensação de processo interno considerados".</p>    
+                <figure>
+                    <img src="https://3.bp.blogspot.com/_5yoH7bxgL0w/TEzNDkGSG2I/AAAAAAAALZ0/GWvnuWwvFZQ/s1600/Os-Vingadores-elenco-e1280059219476-1024x440.jpg"> 
+                    <figcaption>Elenco principal</figcaption>
+                </figure>
+    </body>
+</html>
