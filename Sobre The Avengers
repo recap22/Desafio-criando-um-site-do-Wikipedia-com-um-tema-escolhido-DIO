@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Sobre meu site</title>
+    </head>
+    <body>
+        <a href="index.html">< Voltar</a>
+        <h1>Sobre The Avengers</h1>
+        <h2>Tudo sobre The Avengers</h2>
+            <p>The Avengers (bra: Os Vingadores – The Avengers; prt: Os Vingadores) é um filme de super-herói estadunidense de 2012, baseado na equipe Vingadores da Marvel Comics. Produzido pela Marvel Studios e distribuído pela Walt Disney Studios Motion Pictures, é o sexto filme do Universo Cinematográfico Marvel (UCM). Dirigido e escrito por Joss Whedon, o filme apresenta um ensemble cast, composto por Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson e Jeremy Renner como os Vingadores, juntamente com Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård e Samuel L. Jackson. No filme, Nick Fury e a agência de espionagem S.H.I.E.L.D. recrutam Tony Stark, Steve Rogers, Bruce Banner e Thor para formar uma equipe capaz de impedir o irmão de Thor, Loki, de subjugar a Terra.</p>    
+            <figure>
+                <img src="https://m.media-amazon.com/images/I/91Tlu3JbsEL._AC_UF894,1000_QL80_.jpg" width="500"> 
+                <figcaption>Blue Ray do filme</figcaption>
+            </figure>
+        </body>
+</html>
