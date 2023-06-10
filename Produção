@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>Sobre meu site</title>
+    </head>
+    <body>
+        <a href="index.html">< Voltar</a>
+        <h2>Produção</h2>
+            <h3>Desenvolvimento</h3>
+            <p>As ideias relacionadas a um filme baseado nos Vingadores começaram em 2003, com Avi Arad, CEO da Marvel Studios, anunciando os planos para desenvolver o filme em abril de 2005, depois que a Marvel Enterprises declarou independência ao se aliar à Merrill Lynch para produzir uma série de filmes que seriam distribuídos pela Paramount Pictures. A Marvel discutiu seus planos em uma breve apresentação para analistas de Wall Street; a intenção do estúdio era lançar filmes individuais para os personagens principais — a fim de estabelecer suas identidades e familiarizar o público com eles — antes de fundir os personagens em um filme crossover. O roteirista Zak Penn, que escreveu The Incredible Hulk (2008), se juntou à produção de The Avengers em 2006 e, em junho de 2007, foi contratado pela Marvel Studios para escrever o filme. Na esteira da greve dos roteiristas dos Estados Unidos de 2007–2008, a Marvel negociou com a Writers Guild of America para garantir que pudesse criar filmes baseados em seus homólogos de quadrinhos, incluindo Capitão América, Homem-Formiga e Os Vingadores. Após o lançamento bem-sucedido de Iron Man (2008) em maio, a empresa estabeleceu uma data de lançamento em julho de 2011 para The Avengers. Em setembro de 2008, a Marvel Studios chegou a um acordo com a Paramount — uma extensão de uma parceria anterior — que deu à empresa os direitos de distribuição de cinco futuros filmes da Marvel.</p>
+            
+            <figure>
+                <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/6/69/The_Avengers_Cartaz.jpg/250px-The_Avengers_Cartaz.jpg" alt="Pôster oficial do filme">
+                <figcaption>Pôster oficial do filme</figcaption>
+            </figure>
+            <h3>Pré-produção</h3>
+            <p>Em abril de 2010, Joss Whedon estava perto de completar um acordo para dirigir o filme e retrabalhar o roteiro de Penn, e foi anunciado oficialmente em julho de 2010. Sobre a contratação, Arad afirmou: "Minha opinião pessoal é que Joss fará um trabalho fantástico. Ele ama esses personagens e é um ótimo escritor. Faz parte da vida dele, então você sabe que ele vai protegê-los. Espero que alguém como ele torne o roteiro ainda melhor". Feige acrescentou: "Conheço Joss há muitos anos. Estávamos procurando a coisa certa e ele veio e nós encontramos queríamos encontrar um diretor que estivesse prestes a fazer algo grande, como achamos que Joss é." Whedon afirmou na San Diego Comic-Con International 2010, que o que o atraiu para o filme é que ele ama como "essas pessoas não deveriam estar na mesma sala e muito menos na mesma equipe — e essa é a definição do termo família".</p>
+        
+            <h3>Filmagens</h3>
+            <p>As filmagens começaram em 25 de abril de 2011, em Albuquerque, Novo México, na Albuquerque Studios, sob o título de produção de Group Hug. Em junho de 2011, o dublê Jeremy Fitzgerald machucou a cabeça ao tentar uma acrobacia envolvendo uma queda de nove metros de um prédio após ser atingido por uma flecha. Um porta-voz da Marvel disse mais tarde ao TMZ que, apesar da lesão, Fitzgerald se recuperou e continuou trabalhando no set. No mês seguinte, as filmagens secundárias ocorreram cerca de uma hora fora de Pittsburgh, Pensilvânia, na área de Butler. Uma sequência de perseguição também foi filmada em Worthington, Pensilvânia, na Creekside Mushroom Farms, a maior fazenda de cogumelos de um único local do mundo, que forneceu 150 milhas de túneis de calcário abandonados a 300 pés abaixo do solo para as filmagens.</p>
+        
+            <h3>Pós-produção</h3>
+            <p>Em dezembro de 2011, a Disney anunciou que o filme seria convertido em 3D. Whedon comentou: "Eu não sou um grande fã de filmes extremamente longos e de muita falação – gosto de ver o espaço em que estou e me relacionar com ele, então o 3D meio que se encaixa na minha estética de qualquer maneira. E a tecnologia avançou bastante nesses últimos dois anos." Whedon também disse que "definitivamente existem filmes que não deveriam ser em 3D", mas "The Avengers não é desagradável em 3D. Não existe algo como: 'Ah olhe, vamos passar 20 minutos atravessando este túnel porque é em 3D!' E ninguém estará apontando para a tela o tempo todo. Mas é um filme de ação. As coisas tendem a se aproximar da tela de qualquer maneira". Em janeiro de 2012, foi relatado que o filme seria remasterizado digitalmente para IMAX 3D e seria lançado em cinemas IMAX em 4 de maio de 2012, no mesmo dia em que estrearia o seu formato convencional. O lançamento em IMAX sucedeu os lançamentos IMAX de Iron Man 2 e Thor, ambos também da Marvel.</p>    
+    </body>
+</html>
