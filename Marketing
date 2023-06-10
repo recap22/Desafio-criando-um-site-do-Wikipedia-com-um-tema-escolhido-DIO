@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Sobre meu site</title>
+    </head>
+    <body>
+        <a href="index.html">< Voltar</a>
+        <h2>Marketing</h2>
+            <h3>Trailers</h3>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/eOrNdBpGMv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <p>O filme foi promovido na San Diego Comic-Con International 2010, durante a qual um trailer, narrado por Samuel L. Jackson, foi exibido antes de uma introdução do elenco. Em junho de 2011, a Marvel Studios anunciou que não realizaria um painel na San Diego Comic-Con International 2011 depois que os executivos do estúdio decidiram que não estavam preparados para competir com seu próprio passado e as expectativas dos fãs com as filmagens ainda em produção. Em julho de 2011, um teaser trailer, que deveria ser a cena pós-créditos de Captain America: The First Avenger, foi vazado brevemente na Internet. A Entertainment Weekly especulou que o vazamento veio de uma prévia exibição, e descreveu a filmagem como "trêmula, confusa, cintilante e, obviamente, filmada com um telefone celular".</p>
+        
+            <h3>Quadrinhos relacionados</h3>
+            <p>Em dezembro de 2011, a Marvel anunciou que um prelúdio em quadrinhos de oito edições para o filme, escrito por Christopher Yost e Eric Pearson com arte dos brasileiros Luke Ross e Daniel HDR, seria lançado em março de 2012. Em fevereiro de 2012, a Marvel anunciou o lançamento de uma segunda série limitada de quadrinhos tie-in, Black Widow Strikes, escrita por Fred Van Lente, que também escreveu Captain America: First Vengeance, a prequela de quadrinhos de Captain America: The First Avenger. A história se passa entre Iron Man 2 e The Avengers, e segue a Viúva Negra enquanto ela lida com "algumas pontas soltas de Iron Man 2". Além disso, o título Avengers Assemble foi lançado em março de 2012, escrito por Brian Michael Bendis com arte de Mark Bagley, e apresenta a mesma formação dos Vingadores do filme lutando contra uma nova encarnação da equipe de supervilões Zodíaco.</p>
+        
+            <h3>Parceiros promocionais</h3>
+            <p>Paul Gitter, presidente de produtos de consumo da Marvel Entertainment, comentou que o desenvolvimento do filme ajudou a fortalecer as parcerias de varejo: "Os varejistas têm sido menos tolerantes com filmes, então decidimos que, se começássemos com essa estratégia coordenada há vários anos, os varejistas nos dariam espaço nas prateleiras ao longo dos anos e teríamos uma posição mais sustentável no mercado".</p>
+        
+            <h3>Jogo eletrônico</h3>
+            <p>Um jogo eletrônico baseado no filme foi planejado para lançamento simultâneo. O título seria um jogo de tiro em primeira pessoa beat 'em up para Microsoft Windows, PlayStation 3, Wii U e Xbox 360, publicado pela THQ, com a THQ Studio Australia desenvolvendo as versões para console, e a Blue Tongue Entertainment desenvolvendo a versão para Windows. Depois que a THQ fechou os dois estúdios, o jogo foi cancelado. Os direitos de propriedade intelectual de um jogo dos Vingadores foram revertidos para a Marvel, que disse estar explorando possíveis oportunidades de publicação e licenciamento.</p>    
+    </body>
+</html>
