@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Sobre meu site</title>
+    </head>
+    <body>
+        <a href="index.html">< Voltar</a>
+        <h2>Lançamento</h2>
+            <h3>Cinema</h3>
+            <p>Em fevereiro de 2012, a Disney anunciou que o título do filme seria alterado no Reino Unido a fim de evitar um conflito com a série de televisão britânica de mesmo nome, bem como sua adaptação cinematográfica de 1998. Isso fez com que alguns jornalistas se sentissem confusos em relação ao título real do filme. A revista Empire informou que o filme seria intitulado Marvel Avengers Assemble, enquanto que a The Hollywood Reporter disse que simplesmente seria chamado Avengers Assemble. O site oficial da Marvel, no Reino Unido, refere-se ao filme como Marvel's Avengers Assemble, embora David Cox, do The Guardian, ao argumentar que era um dos piores títulos de filmes de todos os tempos, tenha considerado isso um erro nas notas de produção, embora esteja gramaticalmente mais claro. De acordo com a British Board of Film Classification e a Irish Film Classification Office, o título é Marvel Avengers Assemble. Frank Lovece, do FilmFestivalTraveler.com, abordou a discrepância, escrevendo: "The Avengers é, formalmente, intitulado Marvel's The Avengers na tela, embora nenhum apóstrofo apareça". O produtor Kevin Feige disse que há apenas duas palavras no título do Reino Unido, uma a mais do que no título norte-americano, e afirmou que "decisões como essa não são tomadas de uma hora para outra e há muita pesquisa de mercado, advogados e coisas que entram na mesclagem disso".</p>
+        
+            <h3>Mídia doméstica</h3>
+            <p>O filme foi lançado pela Walt Disney Studios Home Entertainment em disco Blu-ray, Blu-ray 3D, DVD e download digital em 29 de agosto de 2012 em múltiplos mercados internacionais, incluindo Brasil e Portugal, e em 25 de setembro nos Estados Unidos. O produtor Kevin Feige disse que o Blu-ray apresenta um novo Marvel One-Shot, intitulado Item 47 (2012), e "várias cenas deletadas e algumas histórias que caíram no esquecimento durante o processo de edição", incluindo "mais algumas cenas com a agente da S.H.I.E.L.D. Maria Hill, interpretada por Cobie Smulders" e "algumas versões ligeiramente diferentes da interação de Maria Hill e Nick Fury com o Conselho de Segurança Mundial".</p>    
+    
+            <figure>
+                <img src="https://cloudfront-us-east-1.images.arcpublishing.com/estadao/KGKRV37M4RLVRA5CDD3YUVJLF4.jpg" width="650"> 
+                <figcaption>Cena do filme</figcaption>
+            </figure>       
+    </body>
+</html>
