@@ -1,0 +1,89 @@
+<html>
+    <head>
+        <title>Sobre meu site</title>
+    </head>
+    <body>
+        <a href="index.html">< Voltar</a>
+        <h2>Recepção</h2>
+            <h3>Bilheteria</h3>
+            <p>The Avengers arrecadou 623,4 milhões de dólares nos Estados Unidos e Canadá, e 895,5 milhões de dólares em outros territórios, para um total mundial de 1,519 bilhão de dólares, tornando-se, na época de seu lançamento, o terceiro filme de maior bilheteria de todos os tempos, a maior bilheteria de 2012, a adaptação de quadrinhos de maior bilheteria, o filme de super-herói de maior bilheteria e o filme de maior receita já lançado pela Walt Disney Studios. A estreia mundial de 392,5 milhões de dólares do filme, foi a terceira maior da história. The Avengers também se tornou o quinto filme distribuído pela Disney e o décimo segundo filme em geral a arrecadar mais de 1 bilhão de dólares. Atingiu este marco em 19 dias, igualando o recorde anteriormente estabelecido por Avatar (2009) e Harry Potter and the Deathly Hallows – Part 2 (2011). Suas receitas excederam seu custo de produção estimado de 220 milhões de dólares 12 dias após seu lançamento. Foi a primeira produção da Marvel a gerar 1 bilhão de dólares em vendas de ingressos.</p>
+        
+            <h3>Estados Unidos e Canadá</h3>
+            <p>Em território doméstico, The Avengers se tornou o terceiro filme de maior bilheteria de todos os tempos, a maior bilheteria de 2012, o filme de maior bilheteria distribuído pela Disney, a maior receita de um filme de super-herói, e a maior bilheteria de uma obra baseada em quadrinhos. Ele estreou na sexta-feira, do dia 4 de maio de 2012, em cerca de 11 800 salas de 4 349 cinemas, e arrecadou 80,8 milhões de dólares, marcando a segunda maior abertura e a segunda maior bilheteria de um único dia. A receita bruta do filme na sexta-feira incluiu uma arrecadação de meia-noite de 18,7 milhões de dólares, um recorde para um filme de super-herói. Tirando a arrecadação de meia-noite, o filme teve a maior receita em seu dia de estreia (62,1 milhões de dólares); também estabeleceu um recorde bruto de sábado e domingo (69,6 milhões e 57,1 milhões de dólares, respectivamente). No total, faturou 207,4 milhões de dólares em seu fim de semana de estreia, estabelecendo um recorde de fim de semana de abertura, incluindo um recorde de fim de semana de abertura em IMAX (15,3 milhões de dólares) e um recorde de fim de semana de estreia de receitas provenientes de exibições em 3D (108 milhões de dólares). O público do fim de semana de abertura foi dividido igualmente entre menores e maiores de 25 anos, com 60% do público sendo masculino, 55% casais, 24% famílias e 21% adolescentes.</p>
+        
+            <h3>Recordes</h3>
+            <p>A seguir estão os recordes estabelecidos pelo filme em seu lançamento nos cinemas.</p>
+            <table summary="A seguir estão os recordes estabelecidos pelo filme em seu lançamento nos cinemas" border="1" width="800" cellspacing="5" cellpadding="5">
+                <thead>
+                    <tr>
+                        <td>Título do recorde</td>
+                        <td>Detalhe(s) do recorde</td>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td>Maior fim de semana de abertura</td>
+                        <td>US$ 207 438 708</td>
+                    </tr>
+                    <tr>
+                        <td>Maior semana de estreia</td>
+                        <td>US$ 270 019 373</td>
+                    </tr>
+                    <tr>
+                        <td>Maior fim de semana de abertura, ajustado para o preço dos ingressos</td>
+                        <td>US$ 207,4 milhões</td>
+                    </tr>
+                    <tr>
+                        <td>Média de cinema – lançamento amplo</td>
+                        <td>US$ 47 698</td>
+                    </tr>
+                    <tr>
+                        <td>Maior arrecadação em 3D durante o fim de semana de abertura</td>
+                        <td>US$ 108 milhões</td>
+                    </tr>
+                    <tr>
+                        <td>Maior arrecadação em IMAX durante o fim de semana de abertura</td>
+                        <td>US$ 15,3 milhões</td>
+                    </tr>
+                    <tr>
+                        <td>Maior segundo fim de semana</td>
+                        <td>US$ 103 052 274</td>
+                    </tr>
+                    <tr>
+                        <td>Maior participação mensal</td>
+                        <td>Maio de 2012, 52%</td>
+                    </tr>
+                    <tr>
+                        <td>Maior arrecadação acumulativa</td>
+                        <td>2 – 43 dias</td>
+                    </tr>
+                    <tr>
+                        <td>Mais rápido a faturar US$ 100*, US$ 150 milhões</td>
+                        <td>2 dias*</td>
+                    </tr>
+                    <tr>
+                        <td>Mais rápido a faturar US$ 200, US$ 250, US$ 300, US$ 350, US$ 400, US$ 450 milhões</td>
+                        <td>3, 6, 9, 10, 14, 17 dias, respectivamente</td>
+                    </tr>
+                    <tr>
+                        <td>Mais rápido a faturar US$ 500, US$ 550 milhões</td>
+                        <td>23, 31 dias</td>
+                    </tr>
+                    <tr>
+                        <td>Maior abertura do mês de maio</td>
+                        <td>US$ 207 438 708</td>
+                    </tr>
+                    <tr>
+                        <td>Maior fim de semana de abertura de um filme de super-herói</td>
+                        <td>US$ 207 438 708</td>
+                    </tr>
+                    <tr>
+                        <td>Filme de super-herói de maior bilheteria</td>
+                        <td>US$ 623 357 910</td>
+                    </tr>
+                </tbody>
+                
+            </table>    
+    </body>
+</html>
